@@ -1,0 +1,17 @@
+.cards__item{ 
+  width:240px;
+  border-color: lightcoral;
+  flex-basis:120px;
+  position:relative;
+  margin-top:60px;
+  list-style-type: none;
+  
+ 
+}
+.cards__item:not(:nth-child(3)){
+  margin-right:100px;
+}
+
+.cards__item:hover{
+  background:#90ee90;
+}

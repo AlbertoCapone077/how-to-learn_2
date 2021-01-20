@@ -1,0 +1,12 @@
+.table {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: auto;
+    padding-left: 0;
+  }
+
+  .table:hover{
+    background-color:grey;
+  }

@@ -1,0 +1,11 @@
+.cards{
+  border-style:groove;
+  border-color:lightsalmon;
+  width:920px;
+  display:flex;
+  flex-wrap:wrap;
+  margin:auto;
+  align-items:center;
+  justify-content: flex-start;
+  
+}

@@ -1,0 +1,17 @@
+.khan__book-pic{
+  position:relative;
+  margin:auto;
+  width: 620px;
+  height: 608px;
+  object-fit:cover ;
+  object-position:top;
+  background:#7cfc00;
+  margin-left:100px;
+  
+  
+}
+.khan__book-pic:hover{
+  box-shadow: 0 0 20px #4E52B0;
+  color:mediumseagreen;
+  
+}
